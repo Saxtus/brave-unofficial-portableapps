@@ -1,6 +1,8 @@
 # Brave (unofficial PortableApps.com edition)
 
-[![Download Latest](https://img.shields.io/github/v/release/Saxtus/brave-unofficial-portableapps?label=Download%20Latest&logo=github)](https://github.com/Saxtus/brave-unofficial-portableapps/releases/latest/download/BravePortable_latest.paf.exe)
+[![Download Latest](https://img.shields.io/github/v/release/Saxtus/brave-unofficial-portableapps?label=Download%20Latest&logo=github)](https://github.com/Saxtus/brave-unofficial-portableapps/releases/latest/download/BravePortable_latest.paf.exe) ![GitHub Release Date](https://img.shields.io/github/release-date/Saxtus/brave-unofficial-portableapps) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Saxtus/brave-unofficial-portableapps/total)
+
+
 
 **Portable, unofficial version of the Brave Browser for [PortableApps.com](https://portableapps.com).**
 
