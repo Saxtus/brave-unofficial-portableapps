@@ -1,0 +1,9 @@
+# Ignore build artifacts and temp folders
+*.exe
+*.zip
+*.7z
+*.paf.exe
+*.log
+Temp/
+build/
+output/
